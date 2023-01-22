@@ -1,7 +1,7 @@
 {
   "strategy": "default",
   "matchStrategy": "prefix",
-  "maxNumberOfSuggestions": 5,
+  "maxNumberOfSuggestions": 15,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
   "minNumberOfWordsTriggeredPhrase": 1,
@@ -46,5 +46,14 @@
     "maxNumberOfHistoryToKeep": 0
   },
   "showLogAboutPerformanceInConsole": false,
-  "selectionHistoryTree": {}
+  "selectionHistoryTree": {
+    "compliment": {
+      "compliment": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1674386304609
+        }
+      }
+    }
+  }
 }
