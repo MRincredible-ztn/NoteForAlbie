@@ -3,7 +3,7 @@
 gantt
     dateFormat  HH-mm
     axisFormat %H:%M
-    %% Current Time: 9:14:11 PM
+    %% Current Time: 11:50:32 PM
     section Tasks
     起床     :07-30, 20mm
     学习新单词     :07-50, 25mm

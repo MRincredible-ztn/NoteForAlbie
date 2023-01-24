@@ -1,0 +1,29 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://en.wikipedia.org/wiki/Special:Search/{{query}}",
+      "name": "Wikipedia",
+      "encode": true
+    },
+    {
+      "name": "Dictionary",
+      "query": "https://www.dictionary.com/browse/{{query}}",
+      "tags": [],
+      "encode": true
+    },
+    {
+      "name": "Google Translate",
+      "query": "https://translate.google.com/?sl=auto&tl=zh-CN&text={{query}}&op=translate",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

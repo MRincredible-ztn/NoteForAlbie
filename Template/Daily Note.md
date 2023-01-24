@@ -3,7 +3,7 @@ created_date: <% tp.file.creation_date('DD/MM/YYYY') %>
 updated_date: <% tp.file.creation_date('DD/MM/YYYY') %>
 type: daily-note
 ---
-<%tp.file.rename('123')%>
+
 # {{title}}
 - **🏷️Tags** : #<% tp.file.creation_date("MM-YYYY") %> #daily 
 - <% tp.web.daily_quote() %>> #quote 

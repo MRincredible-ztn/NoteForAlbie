@@ -17,11 +17,15 @@
     {
       "folder": "Dairy",
       "template": "Template/Daily Note.md"
+    },
+    {
+      "folder": "WordCards",
+      "template": "Template/WordCards.md"
     }
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [
-    ""
+    "Template/WordCards.md"
   ],
   "startup_templates": [
     ""
