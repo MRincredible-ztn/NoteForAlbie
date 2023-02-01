@@ -1,4 +1,6 @@
 {
   "attachmentFolderPath": "Storage",
-  "promptDelete": false
+  "promptDelete": false,
+  "livePreview": true,
+  "newFileLocation": "current"
 }

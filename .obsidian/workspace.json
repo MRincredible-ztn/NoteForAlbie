@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c89c9f335f3d497d",
+        "id": "2f5612e7eae58665",
         "type": "tabs",
         "children": [
           {
-            "id": "b00dd05410f643fe",
+            "id": "1eb404e286a702e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NotesForCS61a/08-29Lecture3/Documentation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -83,12 +87,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NotesForCS61a/08-29Lecture3/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NotesForCS61a/08-29Lecture3/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NotesForCS61a/08-29Lecture3/Documentation.md"
+              }
             }
           },
           {
@@ -151,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,17 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba43d9f70b26cbd1",
+  "active": "1eb404e286a702e6",
   "lastOpenFiles": [
-    "Readings/The end of magical thinking.md",
-    "WordCards/referendums.md",
-    "Template/WordCards.md",
-    "referendums.md",
-    "Untitled.md",
-    "WordCards/Untitled 1.md",
-    "Dairy/Untitled.md",
-    "mom.md",
-    "Dairy/2023-01-21.md",
-    "Template/Book.md"
+    "NotesForCS61a/08-29Lecture3/Aspects of a functional abstraction.md",
+    "NotesForCS61a/08-29Lecture3/Style Guide For Python Code.md",
+    "NotesForCS61a/08-29Lecture3/Defining New Functions.md",
+    "NotesForCS61a/08-29Lecture3/Name Evaluation.md",
+    "NotesForCS61a/08-29Lecture3/Fuction Signatures.md",
+    "NotesForCS61a/08-26Lecture2/Fuctions.md",
+    "NotesForCS61a/08-26Lecture2/Names and the Environment.md",
+    "NotesForCS61a/08-26Lecture2/Looking up Names In Environments.md",
+    "NotesForCS61a/08-26Lecture2/Assignment statement.md",
+    "Storage/Pasted image 20230126225720.png"
   ]
 }

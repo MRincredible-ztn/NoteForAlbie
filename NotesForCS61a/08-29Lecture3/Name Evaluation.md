@@ -1,0 +1,1 @@
+A name evaluates to the value bound to that name in the earliest frame of the current environment in which that name is found.
