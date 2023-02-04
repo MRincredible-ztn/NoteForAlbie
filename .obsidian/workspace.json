@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2f5612e7eae58665",
+        "id": "e87aeeb9da43113d",
         "type": "tabs",
         "children": [
           {
-            "id": "1eb404e286a702e6",
+            "id": "269ceda133b4872b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesForCS61a/08-29Lecture3/Documentation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesForCS61a/08-29Lecture3/Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotesForCS61a/08-29Lecture3/Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NotesForCS61a/08-29Lecture3/Documentation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +166,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1eb404e286a702e6",
+  "active": "269ceda133b4872b",
   "lastOpenFiles": [
-    "NotesForCS61a/08-29Lecture3/Aspects of a functional abstraction.md",
-    "NotesForCS61a/08-29Lecture3/Style Guide For Python Code.md",
-    "NotesForCS61a/08-29Lecture3/Defining New Functions.md",
     "NotesForCS61a/08-29Lecture3/Name Evaluation.md",
-    "NotesForCS61a/08-29Lecture3/Fuction Signatures.md",
-    "NotesForCS61a/08-26Lecture2/Fuctions.md",
-    "NotesForCS61a/08-26Lecture2/Names and the Environment.md",
-    "NotesForCS61a/08-26Lecture2/Looking up Names In Environments.md",
-    "NotesForCS61a/08-26Lecture2/Assignment statement.md",
-    "Storage/Pasted image 20230126225720.png"
+    "NotesForCS61a/08-29Lecture3/Bollean.md",
+    "NotesForCS61a/08-29Lecture3/Logical Expressions.md",
+    "NotesForCS61a/08-29Lecture3/Topics-Defining New Functions.md",
+    "NotesForCS61a/08-29Lecture3/Testing.md",
+    "NotesForCS61a/08-29Lecture3/Boolean.md",
+    "NotesForCS61a/08-29Lecture3/Error Messages.md",
+    "NotesForCS61a/08-29Lecture3/Short Circuiting.md",
+    "NotesForCS61a/08-29Lecture3/Build-in Operators.md",
+    "NotesForCS61a/08-29Lecture3/Aspects of a functional abstraction.md"
   ]
 }

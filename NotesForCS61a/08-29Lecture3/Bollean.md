@@ -1,0 +1,3 @@
+**Boolean contexts**. Above, the execution procedures mention "a false value" and "a true value." The expressions inside the header statements of conditional blocks are said to be in _boolean contexts_: their truth values matter to control flow, but otherwise their values are not assigned or returned. Python includes several false values, including 0, None, and the _boolean_ value False. All other numbers are true values. In Chapter 2, we will see that every built-in kind of data in Python has both true and false values.
+
+**Boolean values**. Python has two boolean values, called True and False. Boolean values represent truth values in logical expressions. The built-in comparison operations, >, <, >=, <=, ==, !=, return these values.
