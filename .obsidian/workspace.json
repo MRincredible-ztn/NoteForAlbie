@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e87aeeb9da43113d",
+        "id": "7796264ffce9dd39",
         "type": "tabs",
         "children": [
           {
-            "id": "190f3e3e46f78abc",
+            "id": "a46fead735b6ad4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NotesForCS61a/08-29Lecture4/Topic-Higher-Order Functions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -79,7 +75,6 @@
       {
         "id": "176f5e07f41905c8",
         "type": "tabs",
-        "dimension": 62.07386363636363,
         "children": [
           {
             "id": "7d2ad13474826055",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NotesForCS61a/08-29Lecture4/Topic-Higher-Order Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NotesForCS61a/08-29Lecture4/Topic-Higher-Order Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NotesForCS61a/08-29Lecture4/Topic-Higher-Order Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,21 +132,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4de2cda7aadae225",
-        "type": "tabs",
-        "dimension": 37.92613636363637,
-        "children": [
-          {
-            "id": "2187bc287a6e272f",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -174,17 +150,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "190f3e3e46f78abc",
+  "active": "ba43d9f70b26cbd1",
   "lastOpenFiles": [
-    "NotesForCS61a/08-29Lecture3/Build-in Operators.md",
-    "NotesForCS61a/08-29Lecture3/Boolean.md",
-    "NotesForCS61a/08-29Lecture3/Bollean.md",
-    "NotesForCS61a/08-29Lecture3/Name Evaluation.md",
-    "NotesForCS61a/08-29Lecture3/Logical Expressions.md",
-    "NotesForCS61a/08-29Lecture3/Topics-Defining New Functions.md",
-    "NotesForCS61a/08-29Lecture3/Testing.md",
-    "NotesForCS61a/08-29Lecture3/Error Messages.md",
-    "NotesForCS61a/08-29Lecture3/Short Circuiting.md",
-    "NotesForCS61a/08-29Lecture3/Aspects of a functional abstraction.md"
+    "Prompts/123.md",
+    "README.md",
+    "call expression.md",
+    "Storage/Pasted image 20230204214946.png",
+    "Storage/Pasted image 20230204213812.png",
+    "Storage/Pasted image 20230126225720.png",
+    "Storage/Pasted image 20230126223844.png",
+    "Storage/Pasted image 20230126221543.png",
+    "NotesForCS61a/08-29Lecture4/Topic-Higher-Order Functions.md",
+    "NotesForCS61a/08-29Lecture3/Build-in Operators.md"
   ]
 }
